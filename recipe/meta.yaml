@@ -19,7 +19,7 @@ requirements:
     - {{ compiler('c') }}
     - {{ stdlib('c') }}
     - make
-    - pkg-config
+    - pkgconf
     - gnuconfig
     - gettext-tools
   host:
